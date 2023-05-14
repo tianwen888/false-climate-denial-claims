@@ -1,0 +1,3 @@
+| Person or organization making false claim | Date | False claim | Why is it wrong |
+| --- | --- | --- | --- |
+| [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu/) and [George Mason University Center For Climate Change Communication](https://www.climatechangecommunication.org/) | | "Doubtful" and "dismissive" respondents deny global warming [1](https://substack.com/profile/8243895-noah-smith/note/c-15845326) [2](https://www.sciencedirect.com/science/article/abs/pii/S2352154621000929) | The survey asks people whether they are worried about global warming, not whether they think it is real [1](https://debunkingthedebunkers.substack.com/p/stop-calling-everyone-a-climate-denier) |
