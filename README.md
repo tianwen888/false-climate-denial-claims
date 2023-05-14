@@ -1,6 +1,6 @@
-# climate-alarmism
+# False climate denial claims
 
-This repository documents false claims made by climate alarmists.
+This repository documents false claims of "climate denialism" made by organizations working on climate change.
 
 ## How can I contribute?
 
